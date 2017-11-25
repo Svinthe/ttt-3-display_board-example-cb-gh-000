@@ -14,3 +14,5 @@ def say_anything_x_times(x,y)
     puts y
     end
   end
+
+say_anything_x_times(10,"Ad Astra & Excelsior")
