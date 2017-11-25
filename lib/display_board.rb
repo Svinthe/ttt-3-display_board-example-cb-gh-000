@@ -8,3 +8,9 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 end
+
+def say_anything_x_times(x,y)
+  x.times do
+    puts y
+    end
+  end
